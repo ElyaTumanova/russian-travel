@@ -1,0 +1,31 @@
+.places {
+  display: flex;
+  flex-direction: column;
+  row-gap: 80px;
+  padding-left: 48px;
+  padding-right: 48px;
+}
+
+
+@media (max-width:1023px) {
+  .places {
+    padding-left: 24px;
+    padding-right: 24px;
+    row-gap: 73px;
+  }
+}
+
+@media (max-width:767px) {
+   .places {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+}
+
+@media (max-width:550px) {
+  .places {
+    padding-left: 0;
+    padding-right: 0;
+    row-gap: 50px;
+  }
+}

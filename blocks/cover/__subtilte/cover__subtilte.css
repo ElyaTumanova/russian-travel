@@ -1,0 +1,15 @@
+.cover__subtilte {
+  margin: 0 auto;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 22px;
+  text-align: center;
+  max-width: 360px;
+}
+
+@media (max-width: 570px) {
+  .cover__subtilte {
+    font-size: 14px;
+    line-height: 16px;
+  }
+}
