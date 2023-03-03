@@ -10,17 +10,14 @@
   padding-right: 18px;
 }
 
-.header__lang-link_active:after {
-  display: block;
-  content: "";
-  height: 2px;
-  width: 100%;
-  background-color: #fff; 
+.header__lang-link:hover {
+  opacity: 80%;
+  transition: opacity 0.2s ease-in-out;
 }
 
-@media (max-width:320px) {
+@media (max-width:430px) {
     .header__lang-link {
-    font-size: 18px;
-    line-height: 20px;
+      font-size: 18px;
+      line-height: 20px;
   }
 }

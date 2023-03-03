@@ -6,7 +6,7 @@
   grid-area: title;
 }
 
-@media (max-width: 1023px) {
+@media (max-width: 816px) {
   .place__title {
     font-size: 42px;
     line-height: 46px;

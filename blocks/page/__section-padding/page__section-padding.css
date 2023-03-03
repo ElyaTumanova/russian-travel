@@ -3,7 +3,7 @@
   padding-right: 48px;
 }
 
-@media (max-width:1023px) {
+@media (max-width:816px) {
   .page__section-padding {
     padding-left: 24px;
     padding-right: 24px;

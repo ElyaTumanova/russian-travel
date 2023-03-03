@@ -1,11 +1,12 @@
 .page__content {
   max-width: 1280px;
+  min-width: 320px;
   margin: auto;
   padding-top: 28px;
   padding-bottom: 24px;
 }
 
-@media (max-width:767px) {
+@media (max-width:705px) {
   .page__content {
     padding-top: 16px;
   }

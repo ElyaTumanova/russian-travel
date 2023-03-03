@@ -2,7 +2,7 @@
   padding-bottom: 56px;
 }
 
-@media (max-width:1279px) {
+@media (max-width:1024px) {
   .page__header-margin {
     padding-bottom: 48px;
   }
