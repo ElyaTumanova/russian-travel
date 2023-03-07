@@ -4,6 +4,7 @@
   min-height: 740px;
   margin: auto;
   background: url(../../images/cover-trains.jpg) no-repeat center/cover;
+  display: flex;
 }
 
 .cover:before {
