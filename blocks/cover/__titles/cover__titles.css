@@ -12,7 +12,7 @@
 
 @media (max-width: 1024px) {
   .cover__titles {
-    width: 100%; 
+    width: 100%;
     min-height: 640px;
   }
 }
